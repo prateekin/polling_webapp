@@ -1,1 +1,1 @@
-# polling_webapp
+# polling_webapp - Django
